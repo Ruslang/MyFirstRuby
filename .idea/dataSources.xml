@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2845514511">
+    <data-source source="LOCAL" name="Rails MyFirstRuby: development" uuid="09db6f6d-135f-49dc-803c-b87645a1a3e0">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/development.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
